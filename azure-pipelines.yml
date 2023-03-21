@@ -41,7 +41,7 @@ steps:
 
 - bash: |
    
-   
+   ipconfig
    ls -l
    
    cd Database1
