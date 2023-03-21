@@ -13,10 +13,11 @@ pool:
 
 resources:
   endpoints:
-    - name: MyEndpoint
-      type: Microsoft.Network/privateEndpoints
-      displayName: My Private Endpoint
-      url: /subscriptions/58a3cb06-91b3-4f09-82b8-882ec0a9c038/resourceGroups/RG-QA-DataOps-EUS/providers/Microsoft.Network/privateEndpoints/PE-QA-DataOps-EUS
+  - name: MyEndpoint
+    type: Microsoft.Network/privateEndpoints
+    displayName: My Private Endpoint
+    url: /subscriptions/58a3cb06-91b3-4f09-82b8-882ec0a9c038/resourceGroups/RG-QA-DataOps-EUS/providers/Microsoft.Network/privateEndpoints/PE-QA-DataOps-EUS
+
 
 
 
