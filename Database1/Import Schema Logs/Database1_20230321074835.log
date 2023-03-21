@@ -1,0 +1,84 @@
+22-03-2023 01:18:35	This log contains information about the import schema operation into project 'Database1' on computer 'VAN-SERVER' by user 'promi'.
+22-03-2023 01:18:35	Import of database schema has started.
+22-03-2023 01:18:53	Gathering logins
+22-03-2023 01:20:05	Gathering database credentials
+22-03-2023 01:20:05	Gathering database options
+22-03-2023 01:20:05	Gathering generic database scoped configuration option
+22-03-2023 01:20:05	Gathering users
+22-03-2023 01:20:07	Gathering roles
+22-03-2023 01:20:07	Gathering application roles
+22-03-2023 01:20:07	Gathering role memberships
+22-03-2023 01:20:07	Gathering filegroups
+22-03-2023 01:20:07	Gathering full-text catalogs
+22-03-2023 01:20:07	Gathering assemblies
+22-03-2023 01:20:07	Gathering certificates
+22-03-2023 01:20:07	Gathering symmetric keys
+22-03-2023 01:20:07	Gathering encrypted symmetric keys
+22-03-2023 01:20:07	Gathering schemas
+22-03-2023 01:20:07	Gathering XML schema collections
+22-03-2023 01:20:07	Gathering user-defined data types
+22-03-2023 01:20:07	Gathering user-defined types
+22-03-2023 01:20:07	Gathering table types
+22-03-2023 01:20:07	Gathering unique keys for table types
+22-03-2023 01:20:07	Gathering primary keys for table types
+22-03-2023 01:20:13	Gathering indexes for table types
+22-03-2023 01:20:13	Gathering check constraints for table types
+22-03-2023 01:20:13	Gathering default constraints for table types
+22-03-2023 01:20:13	Gathering partition functions
+22-03-2023 01:20:13	Gathering partition schemes
+22-03-2023 01:20:13	Gathering functions
+22-03-2023 01:20:13	Gathering encrypted functions
+22-03-2023 01:20:14	Gathering aggregates
+22-03-2023 01:20:14	Gathering procedures
+22-03-2023 01:20:14	Gathering encrypted procedures
+22-03-2023 01:20:17	Gathering tables
+22-03-2023 01:20:20	Gathering primary keys
+22-03-2023 01:20:21	Gathering unique constraints
+22-03-2023 01:20:21	Gathering foreign keys
+22-03-2023 01:20:21	Gathering default constraints
+22-03-2023 01:20:21	Gathering check constraints
+22-03-2023 01:20:21	Gathering views
+22-03-2023 01:20:23	Gathering encrypted views
+22-03-2023 01:20:23	Gathering indexes
+22-03-2023 01:20:23	Gathering statistics
+22-03-2023 01:20:28	Gathering full-text index stoplists
+22-03-2023 01:20:28	Gathering search property lists
+22-03-2023 01:20:28	Gathering search properties
+22-03-2023 01:20:28	Gathering full-text indexes
+22-03-2023 01:20:28	Gathering column store indexes
+22-03-2023 01:20:28	Gathering spatial indexes
+22-03-2023 01:20:28	Gathering XML indexes
+22-03-2023 01:20:28	Gathering Selective XML indexes
+22-03-2023 01:20:29	Gathering encrypted triggers
+22-03-2023 01:20:29	Gathering triggers
+22-03-2023 01:20:29	Gathering encrypted and clr ddl triggers
+22-03-2023 01:20:29	Gathering ddl triggers
+22-03-2023 01:20:29	Creating edge constraints
+22-03-2023 01:20:29	Gathering synonyms
+22-03-2023 01:20:29	Gathering defaults
+22-03-2023 01:20:29	Gathering data constraint uddt bindings
+22-03-2023 01:20:29	Gathering rules
+22-03-2023 01:20:29	Gathering data constraint uddt bindings
+22-03-2023 01:20:29	Gathering message types
+22-03-2023 01:20:29	Gathering queues
+22-03-2023 01:20:29	Gathering contracts
+22-03-2023 01:20:29	Gathering services
+22-03-2023 01:20:29	Gathering event notifications
+22-03-2023 01:20:29	Gathering remote service bindings
+22-03-2023 01:20:29	Gathering broker priorities
+22-03-2023 01:20:29	Gathering signatures
+22-03-2023 01:20:29	Gathering data compression options
+22-03-2023 01:20:29	Gathering sequence types
+22-03-2023 01:20:29	Gathering security policies
+22-03-2023 01:20:29	Gather column encryption keys
+22-03-2023 01:20:29	Gathering column master keys
+22-03-2023 01:20:29	Gathering external data sources
+22-03-2023 01:20:29	Gathering external tables
+22-03-2023 01:20:29	Gathering extended properties
+22-03-2023 01:20:29	Gathering assemblies
+22-03-2023 01:20:36	Gathering logins
+22-03-2023 01:20:39	Scanning project for duplicate elements
+22-03-2023 01:20:39	Finished duplicate element processing
+22-03-2023 01:20:40	Finished importing database.
+22-03-2023 01:20:40	A summary of the import was saved to the following location: C:\Users\promi\OneDrive\Documents\Friday_DB-POC\Database1\Database1\Import Schema Logs\Database1_20230321074835.log
+22-03-2023 01:20:40	Click Finish to continue...
